@@ -1,0 +1,4 @@
+com/serviciolicencias/ServicioLicenciasApplication.class
+com/serviciolicencias/model/License.class
+com/serviciolicencias/service/LicenseService.class
+com/serviciolicencias/controller/LicenseController.class
